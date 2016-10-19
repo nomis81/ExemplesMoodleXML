@@ -1,8 +1,8 @@
-<question type=multichoice>
+<question type="multichoice">
 	<name>
 		<text>Demo question à choix multiples</text>
 	</name>
-	<questiontext format=html>
+	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
 	</questiontext>
 	<penalty>1</penalty>
@@ -49,5 +49,5 @@
 			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
-	<shuffleanswers>true
+	<shuffleanswers>true</shuffleanswers>
 </question>
